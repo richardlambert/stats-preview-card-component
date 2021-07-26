@@ -25,6 +25,11 @@ a {
 }
 
 body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-family: var(--primary-font-stack);
   font-size: 15px;
+  background-color: var(--black);
 }
