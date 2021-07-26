@@ -20,6 +20,8 @@ a {
   --white-trans-2: rgba(255, 255, 255, 0.6);
   --primary-font-stack: 'Inter';
   --secondary-font-stack: 'Lexend Deca';
+  --mobile-width: 375px;
+  --desktop-width: 1440px;
 }
 
 body {
