@@ -5,6 +5,7 @@ export default function Index() {
     <>
       <Head>
         <title>Frontend Mentor - Stats Preview Card Component</title>
+        <link rel='shortcut icon' href='/images/favicon.png' />
       </Head>
     </>
   );
